@@ -1,6 +1,6 @@
 # RockPaperScissors
 Kő-Papír-Olló játék
-## Demo:
+**Demo:**
 <br>
 https://toxy.hu/webesmegoldasok/kopapirollo/
 <br>
